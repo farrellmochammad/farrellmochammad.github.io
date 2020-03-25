@@ -517,7 +517,6 @@ a:hover, a:active, a:focus {
   padding-top: 32px;
 }
 
-
 /*---------------------------------------
     Contact section              
 -----------------------------------------*/
@@ -702,4 +701,12 @@ footer {
   footer {
     padding: 40px 0;
   }
+}
+
+.projects-1-img {
+  background: url('../images/projects-1.png') no-repeat;
+}
+
+.shoptv-1-img {
+  background: url('../images/shoptv-1.jpg') no-repeat;
 }
