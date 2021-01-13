@@ -498,6 +498,15 @@ a:hover, a:active, a:focus {
     padding: 100px 0px;
 }
 
+#certificates {
+  background: url('../images/certificate-bg.jpg') 50% 0 repeat-y fixed;
+  background-size: cover;
+  background-position: center center;
+  color: #ffffff;
+  position: relative;
+  padding: 100px 0px;
+}
+
 #quotes .overlay {
     background: #121212;
     width: 100%;
@@ -726,4 +735,5 @@ footer {
 .box-inside {
   display: block;
   margin: 5%;
+  text-align: center;
 }
