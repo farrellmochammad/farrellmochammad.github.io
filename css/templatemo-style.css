@@ -714,3 +714,16 @@ footer {
 .chatbot-1-img {
   background: url('../images/projects-2.png') no-repeat;
 }
+
+.certificate-1-img {
+  background: url('../images/certificate-1.png') no-repeat;
+}
+
+.certificate-2-img {
+  background: url('../images/certificate-2.png') no-repeat;
+}
+
+.box-inside {
+  display: block;
+  margin: 5%;
+}
